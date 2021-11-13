@@ -1,2 +1,2 @@
-# DS2
-Github repository for my graduate study M2 Data Science @IP Paris
+# M2 Data Science @IP Paris
+All my lab work in program M2 DS
